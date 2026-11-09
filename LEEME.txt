@@ -1,0 +1,24 @@
+JOIBA AI - VERSION CON MODELO LOCAL
+
+Archivo principal: index.html
+
+Para actualizar tu proyecto:
+1. Abre el repositorio joiba-ai en GitHub.
+2. Abre el archivo index.html.
+3. Pulsa el lápiz Edit (Editar) y selecciona todo el contenido anterior.
+4. Pega el contenido del nuevo index.html que descargaste, o usa Add file > Upload files y reemplaza el archivo existente.
+5. Pulsa Commit changes para guardar.
+6. Abre tu sitio de GitHub Pages y actualiza la pestaña.
+
+Primera ejecución:
+- Abre la web usando GitHub Pages (HTTPS).
+- Escribe una pregunta y pulsa Enviar.
+- La primera vez se descargará un modelo de IA desde Hugging Face; puede tardar.
+- Mantén abierta la pestaña mientras se carga. El modelo se puede guardar en la caché del navegador.
+- Requiere conexión a internet para descargar los archivos. La generación de respuestas se ejecuta en el navegador.
+
+Notas:
+- Este es un modelo compacto de demostración, no equivale a ChatGPT y puede equivocarse.
+- La velocidad depende de tu equipo y de si el navegador puede usar WebGPU.
+- No introduzcas contraseñas ni datos personales sensibles.
+- No incluye todavía memoria permanente, tareas guardadas ni búsqueda web.
